@@ -16,3 +16,4 @@ Currently Learning:
 
 Certifications:
 - Cisco Introduction to Cybersecurity
+- Cisco Netoworking Basics
