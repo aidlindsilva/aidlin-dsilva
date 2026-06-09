@@ -1,7 +1,7 @@
 # aidlin-dsilva
 # Hi, I'm Aidlin Antony D Silva
 
-Computer Science Engineering Student
+B.Tech in Computer Science Engineering Student
 
 Interested in:
 - Cybersecurity
